@@ -1,6 +1,3 @@
-# Frontend
-E08
-
 Instalamos las dependencias del proyecto
 ```
 npm install
