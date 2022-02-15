@@ -1,7 +1,4 @@
 # Backend
-E08
-
-Para usar el backend se debe seguir las siguientes instrucciones
 
 Instalamos las dependencias del proyecto
 ```
